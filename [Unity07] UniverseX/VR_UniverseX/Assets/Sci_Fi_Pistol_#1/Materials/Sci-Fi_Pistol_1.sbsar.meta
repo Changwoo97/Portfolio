@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d8c9cd0f46726344bc38ead5584359c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 7399cb419e89a6f45b344d0c78770e89, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Sci_Fi_Pistol_#1/Materials/Sci-Fi_Pistol_1.sbsar
